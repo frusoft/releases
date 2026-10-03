@@ -7,7 +7,7 @@ Installers and downloads for Frusoft apps. Every app publishes its builds here a
 
 | App | What it is | Download |
 | --- | --- | --- |
-| Beatweave | DJ set planner for macOS that reads your Rekordbox library | _coming soon_ |
+| Beatweave | DJ set planner for macOS that reads your Rekordbox library | [Beatweave 0.1.0 for macOS (Apple silicon)](https://github.com/frusoft/releases/releases/download/beatweave-v0.1.0/Beatweave_0.1.0_aarch64.dmg) |
 
 ## How releases are organised
 
